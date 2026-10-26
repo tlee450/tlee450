@@ -1,6 +1,6 @@
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/tlee450/count.svg" alt="Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=tlee450&color=800080&style=for-the-badge" alt="Visitor Count" />
   <img src="https://github.com/tlee450/tlee450/blob/main/Applied_Math_Map.png?raw=true" alt="Applied and Theoretical Math Concepts">
 </div>
 
@@ -36,6 +36,18 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,vscode" />
 </p>
+
+<hr>
+
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=tlee450&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="TaylorLee's's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=tlee450&theme=transparent&count_private=true&border_radius=10&locale=en" alt="TaylorLee" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=tlee450&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="TaylorLee's Most Used Languages" />
+</div>
 
 <hr>
 <!--
