@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Taylor+Lee!;" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+%F0%9F%91%8B;I%27m+Taylor+Lee!" />
 </h1>
 
 ### Data Analyst and ML Engineer. I build functional predictive models and scalable data pipelines to solve real-world problems.
