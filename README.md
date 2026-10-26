@@ -1,5 +1,4 @@
 <div align="center"> 
-  <p>Visitor count</p>
   <img src="https://komarev.com/ghpvc/?username=tlee450&color=800080&style=for-the-badge" alt="Visitor Count" />
   <img src="https://github.com/tlee450/tlee450/blob/main/Applied_Math_Map.png?raw=true" alt="Applied and Theoretical Math Concepts">
 </div>
@@ -10,13 +9,15 @@
 
 ### Data Analyst and ML Engineer. I build functional predictive models and scalable data pipelines to solve real-world problems.
 
+- 🔭 I’m currently working as a Python Programmer at TNT Pollination and a Data Analyst Intern at BYU
 - 🌱 I’m currently learning **[Transformer Architectures](https://www.columbia.edu/~jsl2239/transformers.html)**
-- 💬 Ask me about **Python, PyTorch, scikit-learn [here](https://github.com/{tlee450}/{tlee450}/issues)**
+- 💬 Ask me about **Python, PyTorch, scikit-learn [here](https://github.com/tlee450/tlee450/issues)**
+- ⚡ Fun fact: I love to write and perform sketch comedy! I also enjoy playing the violin 🎻
 
 <br>
 
 <div align="center">
-  <a href="taylorrlee03@gmail.com">
+  <a href="mailto:taylorrlee03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/taylor-lee000" target="_blank">
@@ -36,8 +37,11 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,vscode" />
 </p>
+<p align="center">
+  <b>Data & Analytics Stack:</b> Pandas, NumPy, SciPy, Matplotlib, Streamlit, GeoPandas, Ollama
+</p>
 
-<hr>
+<br>
 
 ## ⚡️ Stats
 
