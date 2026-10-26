@@ -1,18 +1,10 @@
-<div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=tlee450&color=800080&style=for-the-badge" alt="Visitor Count" />
-  <img src="https://github.com/tlee450/tlee450/blob/main/Applied_Math_Map.png?raw=true" alt="Applied and Theoretical Math Concepts">
-</div>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+%F0%9F%91%8B;I%27m+Taylor+Lee!" />
-</h1>
+<h1 align="center">Hi There! 👋 I'm Taylor Lee!</h1>
 
 ### Data Analyst and ML Engineer. I build functional predictive models and scalable data pipelines to solve real-world problems.
 
-- 🔭 I’m currently working as a Python Programmer at TNT Pollination and a Data Analyst Intern at BYU
+- 🔭 Building AI-driven mapping systems at TNT Pollination and ETL pipelines at BYU Enrollment Services
 - 🌱 I’m currently learning **[Transformer Architectures](https://www.columbia.edu/~jsl2239/transformers.html)**
-- 💬 Ask me about **Python, PyTorch, scikit-learn [here](https://github.com/tlee450/tlee450/issues)**
-- 🔢 The banner above shows all the awesome things I got to learn in my undergrad! **Learn more [here](https://acme.byu.edu)**
+- 🎯 Open to new opportunities as a Data Analyst or Machine Learning Engineer
 - ⚡ Fun fact: I love to write and perform sketch comedy! I also enjoy playing the violin 🎻
 
 <br>
