@@ -3,7 +3,7 @@
 ### Data Analyst and ML Engineer. I build functional predictive models and scalable data pipelines to solve real-world problems.
 
 - 🔭 Building AI-driven mapping systems at TNT Pollination and ETL pipelines at BYU Enrollment Services
-- 🌱 I’m currently learning **[Transformer Architectures](https://www.columbia.edu/~jsl2239/transformers.html)**
+- 🌱 I’m currently learning some really cool things in my major **[ACME](https://acme.byu.edu)**
 - 🎯 Open to new opportunities as a Data Analyst or Machine Learning Engineer
 - ⚡ Fun fact: I love to write and perform sketch comedy! I also enjoy playing the violin 🎻
 
@@ -33,32 +33,6 @@
 <p align="center">
   <b>Data & Analytics Stack:</b> Pandas, NumPy, SciPy, Matplotlib, Streamlit, GeoPandas, Ollama
 </p>
-
-<br>
-
-## ⚡️ Stats
-
-<br>
-
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=tlee450&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="TaylorLee's's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=tlee450&theme=transparent&count_private=true&border_radius=10&locale=en" alt="TaylorLee" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=tlee450&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="TaylorLee's Most Used Languages" />
-</div>
-
-<hr>
-
-## 🐍 My Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tlee450/tlee450/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tlee450/tlee450/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tlee450/tlee450/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<hr>
 <!--
 **tlee450/tlee450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
