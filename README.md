@@ -1,8 +1,12 @@
 <div align="center"> 
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/{tlee450}/count.svg" alt="Visitor's Count" />
+  <img src="https://github.com/tlee450/tlee450/blob/main/Applied_Math_Map.png" alt="Applied and Theoretical Math Concepts">
+  
 </div>
 
+
+https://github.com/tlee450/tlee450/blob/main/Applied_Math_Map.png
 <!--
 **tlee450/tlee450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
