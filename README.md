@@ -12,6 +12,7 @@
 - 🔭 I’m currently working as a Python Programmer at TNT Pollination and a Data Analyst Intern at BYU
 - 🌱 I’m currently learning **[Transformer Architectures](https://www.columbia.edu/~jsl2239/transformers.html)**
 - 💬 Ask me about **Python, PyTorch, scikit-learn [here](https://github.com/tlee450/tlee450/issues)**
+- 🔢 The banner above shows all the awesome things I got to learn in my undergrad! **Learn more [here](https://acme.byu.edu)**
 - ⚡ Fun fact: I love to write and perform sketch comedy! I also enjoy playing the violin 🎻
 
 <br>
