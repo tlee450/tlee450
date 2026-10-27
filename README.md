@@ -2,8 +2,8 @@
 
 ### Data Analyst and ML Engineer. I build functional predictive models and scalable data pipelines to solve real-world problems.
 
-- 🔭 Building AI-driven mapping systems at TNT Pollination and ETL pipelines at BYU Enrollment Services
-- 🌱 I’m currently learning some really cool things in my major **[ACME](https://acme.byu.edu)**
+- 🔭 I'm currently building AI-driven mapping systems at TNT Pollination and ETL pipelines at BYU Enrollment Services
+- 🌱 I'm learning some really cool things in my major **[ACME](https://acme.byu.edu)**
 - 🎯 Open to new opportunities as a Data Analyst or Machine Learning Engineer
 - ⚡ Fun fact: I love to write and perform sketch comedy! I also enjoy playing the violin 🎻
 
